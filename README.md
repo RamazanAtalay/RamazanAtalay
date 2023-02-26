@@ -96,9 +96,9 @@ I am working on some side projects, learning a coding in Python, and trying to c
 <p> <img align="center"
       src="https://github-readme-stats.vercel.app/api?username=RamazanAtalay&show_icons=true&locale=en&count_private=true" alt="RamazanAtalay" />
 
+<p><img align="center"
+         src="https://github-readme-streak-stats.herokuapp.com/?user=RamazanAtalay"
+         alt="RamazanAtalay" /></p>
+
 <img src="https://visitor-badge.glitch.me/badge?page_id=RamazanAtalay.RamazanAtalay" alt="visitors"></p>
 
-
-<p><img align="center"
-         src="https://github-readme-streak-stats.herokuapp.com/?user=RamazanAtalay&&theme=tokyonight"
-         alt="RamazanAtalay" /></p>
