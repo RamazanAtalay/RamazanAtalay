@@ -9,6 +9,9 @@
 <a href="https://twitter.com/RamazanAtalay35">
   <img alt="RamazanAtalay's Twitter" width="50px" src="https://user-images.githubusercontent.com/43545812/144034996-602b144a-16e1-41cc-99e7-c6040b20dcaf.png"/>
 </a>
+<a href="https://ramazanatalay.medium.com">
+  <img alt="RamazanAtalay's Medium" width="50px" src="https://github.com/Medium/medium-logos/blob/master/01_Logo/01_Black/PNG/CMYK/Medium-Logo-Black-CMYK%401x.png"/>
+</a>
 <a href="https://www.instagram.com/ramazanatalay">
   <img alt="RamazanAtalay's Instagram" width="50px" src="https://user-images.githubusercontent.com/43545812/144035088-0dfb165f-8fe0-4d13-896c-876c29d2b128.png" />
 </a>
