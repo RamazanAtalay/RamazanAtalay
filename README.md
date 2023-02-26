@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://ramazanatalay.com/"> Ramazan Atalay</h1>
+<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/ramazanatalay35/"> Ramazan</h1>
 <h3 align="center">A passionate Cloud & DevOps Engineer</h3>
 
 <p align="center">
@@ -44,6 +44,11 @@ I am working on some side projects, learning a coding in Python, and trying to c
 </p>
 <p>🍌 Don't forget to get some Potassium 🍌</p>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
+<img align="right"
+     alt="Coding"
+     width="400"
+     src="./images/DevOps.gif">
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on <a href="https://github.com/RamazanAtalay/RamazanAtalay">HomepageCirrus</a>.</li>
