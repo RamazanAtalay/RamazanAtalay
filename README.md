@@ -88,9 +88,13 @@ I am working on some side projects, learning a coding in Python, and trying to c
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="25" height="25" />
 </p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ramazanatalay&show_icons=true&count_private=true" alt="ramazanatalay" />
+<img src="https://visitor-badge.glitch.me/badge?page_id=RamazanAtalay.RamazanAtalay" alt="visitors"></p>
 
-<p><img align="center"
-         src="https://github-readme-stats.vercel.app/api/top-langs?username=RamazanAtalay&show_icons=true&locale=en&layout=compact"
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RamazanAtalay&show_icons=true&locale=en&layout=compact"
          alt="RamazanAtalay" /></p>
 
 <p> <img align="center"
@@ -101,4 +105,3 @@ I am working on some side projects, learning a coding in Python, and trying to c
          alt="RamazanAtalay" /></p>
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=RamazanAtalay.RamazanAtalay" alt="visitors"></p>
-
