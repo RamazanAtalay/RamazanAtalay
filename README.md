@@ -90,18 +90,19 @@ I am working on some side projects, learning a coding in Python, and trying to c
 </p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ramazanatalay&show_icons=true&count_private=true" alt="ramazanatalay" />
-<img src="https://visitor-badge.glitch.me/badge?page_id=RamazanAtalay.RamazanAtalay" alt="visitors"></p>
+<img src="https://visitor-badge.glitch.me/badge?page_id=RamazanAtalay.RamazanAtalay" alt="visitors"/></p>
 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RamazanAtalay&show_icons=true&locale=en&layout=compact"
          alt="RamazanAtalay" /></p>
 
-<p> <img align="center"
-      src="https://github-readme-stats.vercel.app/api?username=RamazanAtalay&show_icons=true&locale=en&count_private=true" alt="RamazanAtalay" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RamazanAtalay&show_icons=true&locale=en&count_private=true" alt="RamazanAtalay" /> </p>
 
-<p><img align="center"
-         src="https://github-readme-streak-stats.herokuapp.com/?user=RamazanAtalay"
+<p align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=RamazanAtalay"
          alt="RamazanAtalay" /></p>
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=RamazanAtalay.RamazanAtalay" alt="visitors"></p>
+<p align="center">
+<img src="https://visitor-badge.glitch.me/badge?page_id=RamazanAtalay.RamazanAtalay" alt="visitors"/></p>
