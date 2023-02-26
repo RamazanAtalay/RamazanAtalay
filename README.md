@@ -1,5 +1,8 @@
 <h2>Hey 👋, I'm <a href="https://ramazanatalay.com/">Ramazan</a></h2>
 
+<h1 align="center">Hi 👋, I'm Ramazan Atalay</h1>
+<h3 align="center">A passionate Cloud & DevOps Engineer</h3>
+
 <p align="center">
 <br/>
 <a href="https://www.linkedin.com/in/ramazanatalay35">
