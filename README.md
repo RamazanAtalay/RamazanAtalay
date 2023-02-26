@@ -61,10 +61,10 @@ I am working on some side projects, learning a coding in Python, and trying to c
 <h2>✒️ Recent Posts</h2>
 <details>
     <summary>Explore</summary>
-    <li><a target="_blank" href="https://blog.ramazanatalay.com">Airpods Not Charging on Windows — August 19, 2022</a></li>
+    <li><a target="_blank" href="https://medium.com/@ramazanatalay/how-to-set-up-jenkins-using-docker-on-macos-a-step-by-step-guide-c6647e826045">How to Set Up Jenkins using Docker on MacOS: A Step-by-Step Guide — February 26, 2023</a></li>
     <li><a target="_blank" href="https://blog.ramazanatalay.com">⚡ The Fastest Way to Develop and Deploy Your Next Project — June 09, 2022</a></li>
 </details>
-<p><a target="_blank" href="https://blog.ramazanatalay.com">Read More</a></p>
+<p><a target="_blank" href="https://ramazanatalay.medium.com">Read More</a></p>
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
