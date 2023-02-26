@@ -43,12 +43,11 @@ I am working on some side projects, learning a coding in Python, and trying to c
 <a href="https://open.spotify.com/user/1235099575"><img src="https://img.shields.io/badge/-@Stanley%20Lim-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/1235099575" alt="Spotify Badge"></a> -->
 </p>
 <p>🍌 Don't forget to get some Potassium 🍌</p>
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 <img align="right"
-     alt="Coding"
+     alt="DevOps"
      width="400"
-     src="./images/DevOps.gif">
+     src="./images/DevOps.gif"/>
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on <a href="https://github.com/RamazanAtalay/RamazanAtalay">HomepageCirrus</a>.</li>
