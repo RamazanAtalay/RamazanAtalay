@@ -2,11 +2,11 @@
 
 <p align="center">
 <br/>
-<a href="https://twitter.com/ramazanatalay">
-  <img alt="RamazanAtalay's Twitter" width="50px" src="https://user-images.githubusercontent.com/43545812/144034996-602b144a-16e1-41cc-99e7-c6040b20dcaf.png"/>
-</a>
-<a href="https://www.linkedin.com/in/ramazanatalay">
+<a href="https://www.linkedin.com/in/ramazanatalay35">
   <img alt="RamazanAtalay's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
+</a>
+<a href="https://twitter.com/RamazanAtalay35">
+  <img alt="RamazanAtalay's Twitter" width="50px" src="https://user-images.githubusercontent.com/43545812/144034996-602b144a-16e1-41cc-99e7-c6040b20dcaf.png"/>
 </a>
 <a href="https://www.instagram.com/ramazanatalay">
   <img alt="RamazanAtalay's Instagram" width="50px" src="https://user-images.githubusercontent.com/43545812/144035088-0dfb165f-8fe0-4d13-896c-876c29d2b128.png" />
@@ -34,7 +34,7 @@ will_learn: ["Web3"]
 hobbies: ["Movies", "Wood Working", "Outdoor Sports", "Gaming"]
 ```
 
-<p>I'm currently a DevOps consultant at <strong><a href="https://www.deop.ca/">deop</a></strong> and formerly at <strong><a href="https://aws.amazon.com/">AWS</a></strong> based in 🌁 Seattle. 
+<p>I'm currently working as a DevOps consultant at <strong><a href="https://www.deop.ca/">deop</a></strong> and formerly at <strong><a href="https://aws.amazon.com/">AWS</a></strong> based in 🌁 Seattle. 
 I am working on some side projects, learning a coding in Python, and trying to conquer the world as victom of the Decree-Laws no. 667</p>
 <!-- <p><a href="https://stanleylim.me"><img src="https://img.shields.io/badge/-stanleylim.me-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://stanleylim.me" alt="Website Badge"></a>  -->
 <!-- <a href="https://medium.com/@serbis"><img src="https://img.shields.io/badge/-@serbis-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Medium&amp;link=https://medium.com/@serbis" alt="Medium Badge"></a> 
@@ -88,5 +88,19 @@ I am working on some side projects, learning a coding in Python, and trying to c
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="25" height="25" />
 </p>
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ramazanatalay&show_icons=true&count_private=true" alt="ramazanatalay" />
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=RamazanAtalay.RamazanAtalay" alt="visitors"></p>
+<img src="https://visitor-badge.glitch.me/badge?page_id=RamazanAtalay.RamazanAtalay" alt="visitors"></p>
+
+
+<p><img align="left"
+         src="https://github-readme-stats.vercel.app/api/top-langs?username=RamazanAtalay&show_icons=true&locale=en&layout=compact&theme=tokyonight"
+         alt="RamazanAtalay" /></p>
+
+<p>&nbsp;<img align="center"
+         src="https://github-readme-stats.vercel.app/api?username=RamazanAtalay&show_icons=true&locale=en&theme=tokyonight"
+         alt="RamazanAtalay" /></p>
+
+<p><img align="center"
+         src="https://github-readme-streak-stats.herokuapp.com/?user=RamazanAtalay&&theme=tokyonight"
+         alt="RamazanAtalay" /></p>

@@ -4,7 +4,8 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'
+    # Runs every hour
+    - cron: '0 * * * *'
   
 jobs:
   build:
@@ -31,7 +32,7 @@ jobs:
         run: |-
           git add .
           git diff
-          git config --global user.email "ramazanatalay@stanleylim.me"
-          git config --global user.name "ReadMe Bot"
+          git config --global user.email "ramazanatalay@gmail.com"
+          git config --global user.name "Ramazan Atalay"
           git commit -m ":sparkles: feat(README.md): Updated README" || echo "No changes detected"
           git push
