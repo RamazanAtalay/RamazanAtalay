@@ -60,7 +60,7 @@ hobbies: ["Movies", "Wood Working", "Outdoor Sports", "Gaming"]
 </ul>
 
 <h2>⚡️ Several Notable Repositories</h2>
-<p>
+
 ```
 Here are some repositories that initiated a spark during my Cloud and DevOps journey, as I explored a variety of different tools and services, including `Kubernetes`, `Docker`, `Terraform`, `Jenkins`, GitLab, Maven, Nexus, Prometheus, Grafana, Linux, Python, and Bash Scripting.
 ```
@@ -75,7 +75,6 @@ Here are some repositories that initiated a spark during my Cloud and DevOps jou
   | [Linux-Workshop](https://github.com/rumeysakdogan/Linux-Workshop) | Linux |
   | [Python_Workshop](https://github.com/rumeysakdogan/Python_Workshop) | Python |
 
-</p>
 <h2>✒️ Recent Posts</h2>
 <details>
     <summary>Explore</summary>
