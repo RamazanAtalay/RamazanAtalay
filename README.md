@@ -39,7 +39,7 @@ will_learn: ["Web3"]
 hobbies: ["Movies", "Wood Working", "Outdoor Sports", "Gaming"]
 ```
 
-<p>I'm currently working as a DevOps consultant at <strong><a href="https://www.deop.ca">DEOP Inc </a></strong> and formerly at <strong><a href="https://www.centennialcollege.ca">Centennial College</a></strong>in Toronto. </p>
+<p>I'm currently working as a Cloud and DevOps Engineer at <strong><a href="https://www.deop.ca">DEOP Inc </a></strong> and formerly at <strong><a href="https://www.centennialcollege.ca">Centennial College </a></strong> in Toronto. </p>
 <p>I am working on some side projects, learning a coding in Python</p>
 
 </p>
@@ -54,8 +54,8 @@ hobbies: ["Movies", "Wood Working", "Outdoor Sports", "Gaming"]
 <li>🔭 I’m currently working on <a href="https://github.com/RamazanAtalay/RamazanAtalay">AWS Cloud Migration Project</a>.</li>
 <li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/RamazanAtalay">GitHub</a>.</li>
-<!-- <li>📝 I regulary write articles on <a href="https://blog.ramazanatalay.com">my blog</a>.</li> -->
-<li>💬 Ping me about <strong>react, koa, security, and cloud stuff</strong>.</li>
+<li>📝 I regulary write articles on <a href="https://ramazanatalay.medium.com">my blog</a>.</li>
+<li>💬 Ping me about <strong>Azure, AWS, Terraform, and cloud stuff</strong>.</li>
 <li>📙 Check out my <a href="https://www.ramazanatalay.com/resume/resume.pdf">resume</a>.</li>
 </ul>
 
