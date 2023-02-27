@@ -124,20 +124,22 @@ src="https://github.com/devicons/devicon/blob/master/icons/github/github-origina
 src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" width="50" height="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" alt="bitbucket" width="50" height="50" />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="50" height="50" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="50" height="50" />
+<img 
+src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50" />
+<img 
+src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="50" height="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original.svg" alt="vagrant" width="50" height="50" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50" />
+<img 
+src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" alt="terraform" width="50" height="50" />
 <img
 src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="50" height="50" />
-
 <img
 src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="intellij" width="50" height="50" />
 <img
 src="https://github.com/devicons/devicon/blob/master/icons/labview/labview-original.svg" alt="labview" width="50" height="50" />
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" />
+<img 
+src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="50" height="50" />
 <img
 src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50" />
 <img
