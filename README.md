@@ -4,19 +4,19 @@
 <p align="center">
 <br/>
 <a href="https://www.linkedin.com/in/ramazanatalay35">
-  <img alt="RamazanAtalay's LinkedIn" width="50px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img alt="RamazanAtalay's LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://ramazanatalay.medium.com">
-  <img alt="RamazanAtalay's Medium" width="50px" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  <img alt="RamazanAtalay's Medium" width="100px" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 <a href="https://twitter.com/RamazanAtalay35">
-  <img alt="RamazanAtalay's Twitter" width="50px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  <img alt="RamazanAtalay's Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 <a href="https://dev.to/ramazanatalay">
-  <img alt="RamazanAtalay's Dev" width="50px" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
+  <img alt="RamazanAtalay's Dev" width="100px" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
 </a>
 <a href="https://www.kaggle.com/ramazanatalay">
-  <img alt="RamazanAtalay's Kaggle" width="50px" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
+  <img alt="RamazanAtalay's Kaggle" width="100px" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
 </a>
 <br>
 </p>
