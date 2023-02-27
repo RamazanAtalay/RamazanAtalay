@@ -60,10 +60,10 @@ hobbies: ["Movies", "Wood Working", "Outdoor Sports", "Gaming"]
 </ul>
 
 <h2>⚡️ Several Notable Repositories</h2>
-<ul>
-<p> Below are the repositories that I used throughout my AWS/DevOps journey while learning different 'Azure & AWS Services', `Kubernetes`, `Docker`, `Terraform`, `Ansible`, `Helm`, `Jenkins`, `GitLab`, `Maven`, `Nexus`, `Prometheus`, `Grafana`, `Linux`, `Python`, `Bash Scripting`.
+<p>
+- Below are the repositories that I used throughout my Cloud and DevOps journey while learning different `Azure & AWS Services`, `Kubernetes`, 'Docker', "Terraform", `Ansible`, `Helm`, `Jenkins`, `GitLab`, `Maven`, `Nexus`, `Prometheus`, `Grafana`, `Linux`, `Python`, `Bash Scripting`.
 
-Here are some repositories that proved particularly valuable during my journey with AWS/DevOps, as I explored a variety of different tools and services, including Kubernetes, Docker, Terraform, Ansible, Helm, Jenkins, GitLab, Maven, Nexus, Prometheus, Grafana, Linux, Python, and Bash Scripting.
+- Here are some repositories that proved particularly valuable during my journey with AWS/DevOps, as I explored a variety of different tools and services, including Kubernetes, Docker, Terraform, Ansible, Helm, Jenkins, GitLab, Maven, Nexus, Prometheus, Grafana, Linux, Python, and Bash Scripting.
 
   | Repository Name | Description  |
   | ------ | ------ |
