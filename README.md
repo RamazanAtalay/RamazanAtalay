@@ -61,7 +61,7 @@ hobbies: ["Movies", "Wood Working", "Outdoor Sports", "Gaming"]
 
 <h2>⚡️ Several Notable Repositories</h2>
 <p>
-- Here are some repositories that proved particularly valuable during my journey with AWS/DevOps, as I explored a variety of different tools and services, including Kubernetes, Docker, Terraform, Ansible, Helm, Jenkins, GitLab, Maven, Nexus, Prometheus, Grafana, Linux, Python, and Bash Scripting.
+- Here are some repositories that proved particularly valuable during my journey with AWS/DevOps, as I explored a variety of different tools and services, including `Kubernetes`, Docker, Terraform, Ansible, Helm, Jenkins, GitLab, Maven, Nexus, Prometheus, Grafana, Linux, Python, and Bash Scripting.
 
   | Repository Name | Description  |
   | ------ | ------ |
