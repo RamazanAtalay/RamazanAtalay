@@ -61,18 +61,18 @@ hobbies: ["Movies", "Wood Working", "Outdoor Sports", "Gaming"]
 
 <h2>⚡️ Several Notable Repositories</h2>
 
-Here are some repositories that initiated a spark during my Cloud and DevOps journey, as I explored a variety of different tools and services, including `Kubernetes`, `Docker`, `Terraform`, `Jenkins`, `Azure DevOps`, `Java-Maven`, `Nexus`, `Prometheus`, `Grafana`, `Linux`, `Python`, and `Bash` Scripting.
+Here are some repositories that initiated a spark during my Cloud and DevOps journey, as I explored a variety of different tools and services, including `Kubernetes`, `Docker`, `Terraform`, `Jenkins`, `Azure DevOps`, `Java-Maven`, `Nexus`, `Prometheus`, `Grafana`, `Linux`, `Python`, and `Bash Scripting`.
 
 
   | Repository Name | Description  |
   | ------ | ------ |
-  | [AWS_DevOps_Projects](https://github.com/rumeysakdogan/AWS_DevOps_Projects) | DevOps projects using AWS |
-  | [AWS Services](https://github.com/rumeysakdogan/AWS/tree/master/hands-on) | Demos for different AWS Services including IAM, EC2, CFN, S3, EBS, ELB, ASG, AWS CLI, RDS, DynamoDB, Boto3, SNS, SQS, CloudWatch, Cognito, EKS, ECR, ECS, Fargate |
-  | [AWS Services](https://github.com/rumeysakdogan/AWS/tree/master/hands-on) | Demos for different AWS Services including VPC, Route53, CloudFront, ElasticBeanstalk, Lambda, EFS, NAT GW, API GW, CodeCommit, CodeBuild, CodeDeploy, CodePipeline |
-  | [petclinic-microservices-with-db](https://github.com/rumeysakdogan/petclinic-microservices-with-db) | Java Microservices Project|
-  | [DevOps_Workshop](https://github.com/rumeysakdogan/DevOps_Workshop/tree/master/hands-on) | Terraform, Docker, Kubernetes, Ansible, Nexus, Prometheus, Grafana, Helm, Jenkins, Maven |
-  | [Linux-Workshop](https://github.com/rumeysakdogan/Linux-Workshop) | Linux |
-  | [Python_Workshop](https://github.com/rumeysakdogan/Python_Workshop) | Python |
+  | [Azure Projects](https://github.com/RamazanAtalay/TerraformAzure) | Azure IaC projects using Terrform |
+  | [AWS Projects](https://github.com/RamazanAtalay/TerraformAzure) | AWS IaC projects using Terrform |
+  | [Docker swarm projects](https://github.com/RamazanAtalay/docker-swarm-visualizer) | This is Docker swarm project and works only with Docker swarm mode which was introduced in Docker 1.12 |
+  | [Terraform](https://github.com/RamazanAtalay/TerraformAzure) | Terraform projects deploys Azure IaC|
+  | [Azure DevOps]() | Simple application of Azure DevOps |
+  | [Jenkins](https://github.com/RamazanAtalay/java-maven-app) | Jenkins |
+  | [Java-Maven app](https://github.com/RamazanAtalay/java-maven-app) | Java Maven with Jenkins |
 
 <h2>✒️ Recent Posts</h2>
 <details>
