@@ -4,19 +4,19 @@
 <p align="center">
 <br/>
 <a href="https://www.linkedin.com/in/ramazanatalay35">
-  <img alt="RamazanAtalay's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
-</a>
-<a href="https://twitter.com/RamazanAtalay35">
-  <img alt="RamazanAtalay's Twitter" width="50px" src="https://user-images.githubusercontent.com/43545812/144034996-602b144a-16e1-41cc-99e7-c6040b20dcaf.png"/>
+  <img alt="RamazanAtalay's LinkedIn" width="50px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://ramazanatalay.medium.com">
-  <img alt="RamazanAtalay's Medium" width="50px" src="https://github.com/Medium/medium-logos/blob/master/01_Logo/01_Black/PNG/CMYK/Medium-Logo-Black-CMYK%401x.png"/>
+  <img alt="RamazanAtalay's Medium" width="50px" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
-<a href="https://www.instagram.com/ramazanatalay">
-  <img alt="RamazanAtalay's Instagram" width="50px" src="https://user-images.githubusercontent.com/43545812/144035088-0dfb165f-8fe0-4d13-896c-876c29d2b128.png" />
+<a href="https://twitter.com/RamazanAtalay35">
+  <img alt="RamazanAtalay's Twitter" width="50px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
-<a href="https://open.spotify.com/user/ramazanatalay">
-  <img alt="RamazanAtalay's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
+<a href="https://dev.to/ramazanatalay">
+  <img alt="RamazanAtalay's Dev" width="50px" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
+</a>
+<a href="https://www.kaggle.com/ramazanatalay">
+  <img alt="RamazanAtalay's Kaggle" width="50px" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
 </a>
 <br>
 </p>
@@ -38,19 +38,19 @@ will_learn: ["Web3"]
 hobbies: ["Movies", "Wood Working", "Outdoor Sports", "Gaming"]
 ```
 
-<p>I'm currently working as a DevOps consultant at <strong><a href="https://www.deop.ca/">deop</a></strong> and formerly at <strong><a href="https://aws.amazon.com/">AWS</a></strong> based in 🌁 Seattle. 
+<p>I'm currently working as a DevOps consultant at <strong><a href="https://www.deop.ca">DEOP Inc.</a></strong> and formerly at <strong><a href="https://www.centennialcollege.ca">Centennial College</a></strong>in Toronto. 
 I am working on some side projects, learning a coding in Python, and trying to conquer the world as victom of the Decree-Laws no. 667</p>
 <!-- <p><a href="https://stanleylim.me"><img src="https://img.shields.io/badge/-stanleylim.me-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://stanleylim.me" alt="Website Badge"></a>  -->
 <!-- <a href="https://medium.com/@serbis"><img src="https://img.shields.io/badge/-@serbis-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Medium&amp;link=https://medium.com/@serbis" alt="Medium Badge"></a> 
 <a href="https://www.linkedin.com/in/serbis/"><img src="https://img.shields.io/badge/-@serbis-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/serbis/" alt="LinkedIn Badge"></a> <a href="https://dev.to/spiderpig86"><img src="https://img.shields.io/badge/-@spiderpig86-0A0A0A?style=flat-square&amp;labelColor=0A0A0A&amp;logo=dev.to&amp;link=https://dev.to/spiderpig86" alt="DevTo Badge"></a> 
 <a href="https://open.spotify.com/user/1235099575"><img src="https://img.shields.io/badge/-@Stanley%20Lim-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/1235099575" alt="Spotify Badge"></a> -->
 </p>
-<p>🍌 Don't forget to get some Potassium 🍌</p>
 
 <img align="right"
      alt="DevOps"
      width="400"
      src="./images/DevOps.gif"/>
+
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on <a href="https://github.com/RamazanAtalay/RamazanAtalay">HomepageCirrus</a>.</li>
