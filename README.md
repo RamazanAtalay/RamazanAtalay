@@ -83,7 +83,7 @@ Here are some repositories that initiated a spark during my Cloud and DevOps jou
 <p><a target="_blank" href="https://ramazanatalay.medium.com">Read More</a></p>
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original-wordmark.svg" alt="ansible" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" />
