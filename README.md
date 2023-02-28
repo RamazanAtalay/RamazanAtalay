@@ -83,22 +83,6 @@ Here are some repositories that initiated a spark during my Cloud and DevOps jou
 <p><a target="_blank" href="https://ramazanatalay.medium.com">Read More</a></p>
 <h2>🚀 Some Tools I Use</h2>
 
-<li> Programming</li>
-<p align="left">
-<img 
-src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" alt="dotnet" width="40" height="40" />
-<img 
-src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" alt="gradle" width="40" height="40" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="40" height="40" />
-<img
-src="https://github.com/devicons/devicon/blob/master/icons/groovy/groovy-original.svg" alt="groovy" width="40" height="40" />
-</p>
-
-
 <li> Cloud Providers</li>
 <p align="left">
 <img
@@ -108,44 +92,6 @@ src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.
 src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="googlecloud" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="40" height="40" />
 </p>
-
-<li> Database</li>
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40" />
-<img 
-src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" />
-<img 
-src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="mysql" width="40" height="40" />
-<img 
-src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40" />
-</p>
-
-<li> IDE/Terminal</li>
-<p align="left">
-<img 
-src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" />
-<img
-src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40" />
-<img 
-src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" alt="atom" width="40" height="40" />
-</p>
-
-
-<li> Workflow Platforms</li>
-<p align="left">
-<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" alt="jira" width="40" height="40" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" alt="confluence" width="40" height="40" />
-</p>
-
-
-<li> OS Platforms</li>
-<p align="left">
-<img 
-src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-<img 
-src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40" />
-</p>
-
 
 <li> CI/CD</li>
 <p align="left">
@@ -165,7 +111,6 @@ src="https://github.com/devicons/devicon/blob/master/icons/bamboo/bamboo-origina
 <img src="https://github.com/devicons/devicon/blob/master/icons/circleci/circleci-plain.svg" alt="circleci" width="40" height="40" />
 </p>
 
-
 <li> IaC</li>
 <p align="left">
 <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40" />
@@ -183,6 +128,59 @@ src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-origi
 <img
 src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40" />
 </p>
+
+<li> Workflow Platforms</li>
+<p align="left">
+<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" alt="jira" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" alt="confluence" width="40" height="40" />
+</p>
+
+<li> Database</li>
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40" />
+<img 
+src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" />
+<img 
+src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="mysql" width="40" height="40" />
+<img 
+src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40" />
+</p>
+
+<li> Programming</li>
+<p align="left">
+<img 
+src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" alt="dotnet" width="40" height="40" />
+<img 
+src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" alt="gradle" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="40" height="40" />
+<img
+src="https://github.com/devicons/devicon/blob/master/icons/groovy/groovy-original.svg" alt="groovy" width="40" height="40" />
+</p>
+
+
+<li> IDE/Terminal</li>
+<p align="left">
+<img 
+src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" />
+<img
+src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40" />
+<img 
+src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" alt="atom" width="40" height="40" />
+</p>
+
+
+<li> OS Platforms</li>
+<p align="left">
+<img 
+src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
+<img 
+src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40" />
+</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RamazanAtalay&show_icons=true&locale=en&layout=compact"
