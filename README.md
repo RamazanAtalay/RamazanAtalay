@@ -99,7 +99,7 @@ src="https://github.com/devicons/devicon/blob/master/icons/groovy/groovy-origina
 </p>
 
 
-<li> Cloud</li>
+<li> Cloud Providers</li>
 <p align="left">
 <img
 src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40" />
@@ -131,12 +131,12 @@ src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.sv
 </p>
 
 
-
 <li> Workflow Platforms</li>
 <p align="left">
 <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" alt="jira" width="40" height="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" alt="confluence" width="40" height="40" />
 </p>
+
 
 <li> OS Platforms</li>
 <p align="left">
@@ -146,17 +146,10 @@ src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.
 src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40" />
 </p>
 
-<li> DevOps</li>
+
+<li> CI/CD</li>
 <p align="left">
-<img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40" />
-<img 
-src="https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original.svg" alt="argocd" width="40" height="40" />
-<img 
-src="https://github.com/devicons/devicon/blob/master/icons/bamboo/bamboo-original.svg" alt="bamboo" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/travis/travis-plain.svg" alt="travis" width="40" height="40" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/circleci/circleci-plain.svg" alt="circleci" width="40" height="40" />
 <img 
 src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40" />
 <img 
@@ -164,14 +157,31 @@ src="https://github.com/devicons/devicon/blob/master/icons/github/github-origina
 <img 
 src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="40" height="40" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original.svg" alt="vagrant" width="40" height="40" />
+<img 
+src="https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original.svg" alt="argocd" width="40" height="40" />
+<img 
+src="https://github.com/devicons/devicon/blob/master/icons/bamboo/bamboo-original.svg" alt="bamboo" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/travis/travis-plain.svg" alt="travis" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/circleci/circleci-plain.svg" alt="circleci" width="40" height="40" />
+</p>
+
+
+<li> IaC</li>
+<p align="left">
 <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40" />
 <img 
 src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" />
 <img
 src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40" />
+</p>
+
+<li> Monitoring</li>
+<p align="left">
 <img
 src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40" />
+<img
+src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40" />
 </p>
 
 <p align="center">
