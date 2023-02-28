@@ -118,11 +118,11 @@ src="https://github.com/devicons/devicon/blob/master/icons/bamboo/bamboo-origina
 <img src="https://github.com/devicons/devicon/blob/master/icons/circleci/circleci-plain.svg" alt="circleci" width="40" height="40" />
 </p>
 
-<li> IaC</li>
+<li> IaC </li>
 <p align="left">
 <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40" />
 <img 
-src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="45" height="45" />
+src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="50" height="50" />
 <img
 src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40" />
