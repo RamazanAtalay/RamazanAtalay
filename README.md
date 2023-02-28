@@ -82,13 +82,15 @@ Here are some repositories that initiated a spark during my Cloud and DevOps jou
 </details>
 <p><a target="_blank" href="https://ramazanatalay.medium.com">Read More</a></p>
 <h2>🚀 Some Tools I Use</h2>
-<p align="left">
 <li> Editor</li>
+<p align="left">
 <img 
 src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" />
 <img
 src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40" />
+</p>
 <li> Language</li>
+<p align="left">
 <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40" />
@@ -142,7 +144,6 @@ src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.s
 <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40" />
 <img
 src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" />
-
 <img
 src="https://github.com/devicons/devicon/blob/master/icons/labview/labview-original.svg" alt="labview" width="40" height="40" />
 <img 
