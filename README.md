@@ -104,6 +104,10 @@ src="https://github.com/devicons/devicon/blob/master/icons/github/github-origina
 <img 
 src="/images/Azure-DevOps.svg" alt="azuredevops" width="40" height="40" />
 <img 
+src="/images/Data-Factory.svg" alt="datafactory" width="40" height="40" />
+<img 
+src="/images/Container-Instances.svg" alt="acs" width="40" height="40" />
+<img 
 src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="40" height="40" />
 <img 
@@ -122,7 +126,10 @@ src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-origina
 <img
 src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40" />
+<img
+src="/images/Resource-Groups.svg" alt="arm" width="40" height="40" />
+<img 
+src="/images/aws.svg" alt="cloudformation" width="40" height="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original.svg" alt="vagrant" width="40" height="40" />
 </p>
 
