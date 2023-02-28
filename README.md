@@ -49,7 +49,7 @@ hobbies: ["Movies", "Wood Working", "Outdoor Sports", "Gaming"]
      width="400"
      src="./images/DevOps.gif"/>
 
-<h2>⚡️ A Few Quick Facts</h2>
+<h2>⚡️ Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on <a href="https://github.com/RamazanAtalay/RamazanAtalay">AWS Cloud Migration Project</a>.</li>
 <li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
@@ -59,7 +59,7 @@ hobbies: ["Movies", "Wood Working", "Outdoor Sports", "Gaming"]
 <li>📙 Check out my <a href="https://www.ramazanatalay.com/resume/resume.pdf">resume</a>.</li>
 </ul>
 
-<h2>💾 Several Notable Repositories</h2>
+<h2>💾 Notable Repositories</h2>
 
 Here are some repositories that initiated a spark during my Cloud and DevOps journey, as I explored a variety of different tools and services, including `Kubernetes`, `Docker`, `Terraform`, `Jenkins`, `Azure DevOps`, `Java-Maven`, `Nexus`, `Prometheus`, `Grafana`, `Linux`, `Python`, and `Bash Scripting`.
 
