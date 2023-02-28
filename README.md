@@ -84,30 +84,82 @@ Here are some repositories that initiated a spark during my Cloud and DevOps jou
 <h2>🚀 Some Tools I Use</h2>
 <li> Editor</li>
 <p align="left">
+
+</p>
+<li> Programming</li>
+<p align="left">
+
+<img 
+src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" />
+
+<img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40" height="40" />
+<img
+src="https://github.com/devicons/devicon/blob/master/icons/groovy/groovy-original.svg" alt="groovy" width="40" height="40" />
+</p>
+
+
+<li> Cloud</li>
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="40" height="40" />
+<img
+src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" />
+<img
+src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40" />
+
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82340fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="40" height="40" />
+
+</p>
+<li> Database</li>
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40" />
+<img 
+src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" />
+
+</p>
+<li> IDE</li>
+<p align="left">
+
+<img 
+src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" alt="atom" width="40" height="40" />
+
 <img 
 src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" />
 <img
 src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40" />
 </p>
-<li> Language</li>
+
+<li> Terminal</li>
 <p align="left">
+
+
+</p>
+
+<li> Workflow Platforms</li>
+<p align="left">
+<img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" alt="jira" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" alt="confluence" width="40" height="40" />
+
+</p>
+<li> DevOps</li>
+<p align="left">
+
+
+</p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" />
+
 <img 
 src="https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original.svg" alt="argocd" width="40" height="40" />
-<img 
-src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" alt="atom" width="40" height="40" />
-<img 
-src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
-<img
-src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40" />
+
+
+
 <img 
 src="https://github.com/devicons/devicon/blob/master/icons/bamboo/bamboo-original.svg" alt="bamboo" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40" />
-<img 
-src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" />
+
 <img 
 src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40" />
 <img 
@@ -123,7 +175,7 @@ src="https://github.com/devicons/devicon/blob/master/icons/python/python-origina
 <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" alt="dotnet" width="40" height="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="40" height="40" />
+
 <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/travis/travis-plain.svg" alt="travis" width="40" height="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/circleci/circleci-plain.svg" alt="circleci" width="40" height="40" />
@@ -134,7 +186,7 @@ src="https://github.com/devicons/devicon/blob/master/icons/github/github-origina
 <img 
 src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82340fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="40" height="40" />
+
 <img 
 src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
 <img 
@@ -142,18 +194,13 @@ src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.s
 <img src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original.svg" alt="vagrant" width="40" height="40" />
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40" />
-<img
-src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" />
-<img
-src="https://github.com/devicons/devicon/blob/master/icons/labview/labview-original.svg" alt="labview" width="40" height="40" />
+
+
 <img 
 src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" />
 <img
 src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40" />
-<img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40" height="40" />
-<img
-src="https://github.com/devicons/devicon/blob/master/icons/groovy/groovy-original.svg" alt="groovy" width="40" height="40" />
+
 <img
 src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40" />
 </p>
