@@ -122,7 +122,7 @@ src="https://github.com/devicons/devicon/blob/master/icons/bamboo/bamboo-origina
 <p align="left">
 <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40" />
 <img 
-src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" />
+src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="45" height="45" />
 <img
 src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40" />
