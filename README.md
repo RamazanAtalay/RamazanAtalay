@@ -86,20 +86,19 @@ Here are some repositories that initiated a spark during my Cloud and DevOps jou
 <p align="left">
 
 </p>
+
+
 <li> Programming</li>
 <p align="left">
-
-<img 
-src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" />
-
 <img
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40" height="40" />
 <img
 src="https://github.com/devicons/devicon/blob/master/icons/groovy/groovy-original.svg" alt="groovy" width="40" height="40" />
+<img 
+src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" />
 </p>
 
 
@@ -110,10 +109,9 @@ src="https://github.com/devicons/devicon/blob/master/icons/groovy/groovy-origina
 src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" />
 <img
 src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40" />
-
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82340fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="40" height="40" />
-
 </p>
+
 <li> Database</li>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40" />
@@ -121,12 +119,11 @@ src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.
 src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" />
 
 </p>
+
 <li> IDE</li>
 <p align="left">
-
 <img 
 src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" alt="atom" width="40" height="40" />
-
 <img 
 src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" />
 <img
