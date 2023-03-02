@@ -66,6 +66,7 @@ Here are some repositories that initiated a spark during my Cloud and DevOps jou
 
   | Repository Name | Description  |
   | ------ | ------ |
+   | [DevOps](https://github.com/RamazanAtalay/devops-exercises) | Comprehensive guide to DevOps for students and enthusiasts who are interested in learning about this approach and implementing it in their work |
   | [Azure Projects](https://github.com/RamazanAtalay/TerraformAzure) | Azure IaC projects using Terrform |
   | [AWS Projects](https://github.com/RamazanAtalay/TerraformAzure) | AWS IaC projects using Terrform |
   | [Docker swarm projects](https://github.com/RamazanAtalay/docker-swarm-visualizer) | This is Docker swarm project and works only with Docker swarm mode which was introduced in Docker 1.12 |
