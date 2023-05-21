@@ -26,9 +26,9 @@ name: Ramazan Atalay
 located_in: Toronto, Canada
 job: Cloud & DevOps Engineer
 education: 
-   - ["Doctor of Philosophy (Ph.D.), Physics, [GSU](https://physics-astro.gsu.edu), Atlanta, GA"]
-   - ["Master's in Physics, GSU Atlanta, GA"]
-   - ["Bachelor's in Physics, METU, Ankara, Turkey"]
+   - ["Doctor of Philosophy (Ph.D.), Physics, GSU, Atlanta, GA"]
+   - ["Master of Science (M.Sc.), Physics, GSU Atlanta, GA"]
+   - ["Bachelor of Science (B.Sc.), Physics, METU, Ankara, Turkey"]
 company: Deop Inc.
 past experiences: 
   - ["Cloud Solution Architect", "Deop", "Toronto, Canada", "Jun 2021 - Present"]
@@ -38,8 +38,13 @@ past experiences:
   - ["Research & Teaching Assistant", "Georgia State University", "Atlanta, GA", "Aug 2006 - Dec 2012"]
   - ["Computer Lab Assistant", "METU", "Ankara, Turkey", "Jan 2001 - May 2003"]
 fields_of_interests: ["Cloud", "DevOps", "Microsoft Power Platform","Azure DevOps"]
-technical_background: ["Self-thought Cloud & DevOps Engineer", "Azure", "AWS", "Terraform", "Kubernetes", "Docker", "IaC","CI/CD", "Jenkins","Azure DevOps", "GitOps", "Power Platform"]
-currently_learning: ["DevOps", "Artifical Intelligence"]
+technical_background: 
+  - ["Self-thought Cloud & DevOps Engineer"]
+  - ["Azure", "AWS"]
+  - ["Terraform", "Terraspace", "ARM Template", "CloudFormation"]
+  - ["Kubernetes", "Docker" ]
+  - ["CI/CD", "Jenkins","Azure DevOps", "GitOps"]
+currently_learning: ["Power Platform"]
 will_learn: ["Web3", "ML"]
 hobbies: ["Movies", "Wood Working", "Outdoor Sports", "Gaming"]
 ```
