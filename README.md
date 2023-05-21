@@ -31,22 +31,22 @@ education:
    - ["Bachelor of Science (B.Sc.), Physics, METU, Ankara, Turkey"]
 company: Deop Inc.
 past experiences: 
-  - ["Cloud Solution Architect", "Deop", "Toronto, Canada", "Jun 2021 - Present"]
-  - ["Cloud Operations Engineer", "Deop", "Toronto, Canada", "Jan 2020 - May 2021"]
-  - ["Cloud Engineer", "TBC", "Toronto, Canada", "May 2018 - Dec 2019"]
-  - ["Assistant Professor", "Gediz University", "Izmir, Turkey", "Jun 2013 - Nov 2017"]
-  - ["Research & Teaching Assistant", "Georgia State University", "Atlanta, GA", "Aug 2006 - Dec 2012"]
-  - ["Computer Lab Assistant", "METU", "Ankara, Turkey", "Jan 2001 - May 2003"]
-fields_of_interests: ["Cloud", "DevOps", "Microsoft Power Platform","Azure DevOps"]
+  - ["Cloud Solution Architect, Deop, Toronto, Canada, Jun 2021 - Present"]
+  - ["Cloud Operations Engineer, Deop, Toronto, Canada, Jan 2020 - May 2021"]
+  - ["Cloud Engineer, TBC, Toronto, Canada, May 2018 - Dec 2019"]
+  - ["Assistant Professor, Gediz University, Izmir, Turkey, Jun 2013 - Nov 2017"]
+  - ["Research Assistant, Georgia State Uni., Atlanta, GA, Aug 2006 - Dec 2012"]
+  - ["Computer Lab Assistant, METU, Ankara, Turkey, Jan 2001 - May 2003"]
+fields_of_interests: ["Cloud, DevOps, Microsoft Power Platform"] 
 technical_background: 
   - ["Self-thought Cloud & DevOps Engineer"]
-  - ["Azure", "AWS"]
-  - ["Terraform", "Terraspace", "ARM Template", "CloudFormation"]
-  - ["Kubernetes", "Docker" ]
-  - ["CI/CD", "Jenkins","Azure DevOps", "GitOps"]
+  - ["Azure, AWS"]
+  - ["Terraform, Terraspace, ARM Template, CloudFormation"]
+  - ["Kubernetes, Docker" ]
+  - ["CI/CD, Jenkins, Azure DevOps, GitOps"]
 currently_learning: ["Power Platform"]
-will_learn: ["Web3", "ML"]
-hobbies: ["Movies", "Wood Working", "Outdoor Sports", "Gaming"]
+will_learn: ["Web3, ML"]
+hobbies: ["Movies, Wood Working, Outdoor Sports, Gaming"]
 ```
 
 <p>I'm currently working as a Cloud Solution Architect at <strong><a href="https://www.deop.ca">DEOP </a></strong> and formerly at <strong><a href="https://www.tbconsulting.ca">Transatlantic Business Consulting </a></strong> in Toronto. </p>
