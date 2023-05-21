@@ -25,7 +25,10 @@
 name: Ramazan Atalay
 located_in: Toronto, Canada
 job: Cloud & DevOps Engineer
-education: ["Ph.D. in Physics, GSU, Atlanta, GA", "Master's in Physics, GSU Atlanta, GA", "Bachelor's in Physics, METU, Turkey"]
+education: 
+   - ["Doctor of Philosophy (Ph.D.), Physics, [GSU](https://physics-astro.gsu.edu), Atlanta, GA"]
+   - ["Master's in Physics, GSU Atlanta, GA"]
+   - ["Bachelor's in Physics, METU, Ankara, Turkey"]
 company: Deop Inc.
 past experiences: 
   - ["Cloud Solution Architect", "Deop", "Toronto, Canada", "Jun 2021 - Present"]
