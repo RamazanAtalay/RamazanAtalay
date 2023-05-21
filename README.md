@@ -34,14 +34,14 @@ past experiences:
   - ["Assistant Professor", "Gediz University", "Izmir, Turkey", "Jun 2013 - Nov 2017"]
   - ["Research & Teaching Assistant", "Georgia State University", "Atlanta, GA", "Aug 2006 - Dec 2012"]
   - ["Computer Lab Assistant", "METU", "Ankara, Turkey", "Jan 2001 - May 2003"]
-fields_of_interests: ["DevOps", "GitHub Actions"]
+fields_of_interests: ["Cloud", "DevOps", "Microsoft Power Platform","Azure DevOps"]
 technical_background: ["Self-thought Cloud & DevOps Engineer", "Azure", "AWS", "Terraform", "Kubernetes", "Docker", "IaC","CI/CD", "Jenkins","Azure DevOps", "GitOps", "Power Platform"]
-currently_learning: ["DevOps", "ML", "Artifical Intelligence"]
-will_learn: ["Web3"]
+currently_learning: ["DevOps", "Artifical Intelligence"]
+will_learn: ["Web3", "ML"]
 hobbies: ["Movies", "Wood Working", "Outdoor Sports", "Gaming"]
 ```
 
-<p>I'm currently working as a Cloud and DevOps Engineer at <strong><a href="https://www.deop.ca">DEOP Inc </a></strong> and formerly at <strong><a href="https://www.centennialcollege.ca">Centennial College </a></strong> in Toronto. </p>
+<p>I'm currently working as a Cloud Solution Architect at <strong><a href="https://www.deop.ca">DEOP </a></strong> and formerly at <strong><a href="https://www.tbconsulting.ca">Transatlantic Business Consulting </a></strong> in Toronto. </p>
 <p>I am working on some side projects, learning a coding in Python</p>
 
 </p>
