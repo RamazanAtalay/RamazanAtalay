@@ -3,7 +3,7 @@
 
 <p align="center">
 <br/>
-<a href="https://www.linkedin.com/in/ramazanatalay35">
+<a href="https://www.linkedin.com/in/ratalay">
   <img alt="RamazanAtalay's LinkedIn" width="100px" height="35px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://ramazanatalay.medium.com">
