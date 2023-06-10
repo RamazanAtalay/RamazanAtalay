@@ -25,28 +25,28 @@
 name: Ramazan Atalay
 located_in: Toronto, Canada
 job: Cloud & DevOps Engineer
-education: 
-   - ["Doctor of Philosophy (Ph.D.), Physics, GSU, Atlanta, GA"]
-   - ["Master of Science (M.Sc.), Physics, GSU Atlanta, GA"]
-   - ["Bachelor of Science (B.Sc.), Physics, METU, Ankara, Turkey"]
-company: Deop Inc.
-past experiences: 
-  - ["Cloud Solution Architect, Deop, Toronto, Canada, Jun 2021 - Present"]
-  - ["Cloud Operations Engineer, Deop, Toronto, Canada, Jan 2020 - May 2021"]
-  - ["Cloud Engineer, TBC, Toronto, Canada, May 2018 - Dec 2019"]
-  - ["Assistant Professor, Gediz University, Izmir, Turkey, Jun 2013 - Nov 2017"]
-  - ["Research Assistant, Georgia State Uni., Atlanta, GA, Aug 2006 - Dec 2012"]
-  - ["Computer Lab Assistant, METU, Ankara, Turkey, Jan 2001 - May 2003"]
-fields_of_interests: ["Cloud, DevOps, Microsoft Power Platform"] 
-technical_background: 
-  - ["Self-thought Cloud & DevOps Engineer"]
-  - ["Azure, AWS"]
-  - ["Terraform, Terraspace, ARM Template, CloudFormation"]
-  - ["Kubernetes, Docker" ]
-  - ["CI/CD, Jenkins, Azure DevOps, GitOps"]
-currently_learning: ["Power Platform"]
-will_learn: ["Web3, ML"]
-hobbies: ["Movies, Wood Working, Outdoor Sports, Gaming"]
+company: Deop Inc
+technical_skills:
+  - ['Azure, AWS, GCP - Solution Architect']
+  - ['Terraform, Terraspace, ARM Template, CloudFormation, Ansible']
+  - ['Docker, Azure Container Services, Nexus, Kubernetes']
+  - ['Git, GitHub Actions, Jenkins, Azure DevOps, GitOps']
+  - ['Active Directory, Azure Security, Azure Policy, IAM Identity Center, Security Control Policies, Security Hub']
+past experiences:
+  - ['Cloud and DevOps Engineer, Deop, Toronto, Canada, Feb 2021 - Present']
+  - ['Cloud and DevOps Engineer, TBC, Toronto, Canada, Sep 2019 - Feb 2021']
+  - ['DevOps Engineer Co-Op, TBC, Toronto, Canada, Jan 2019 - Aug 2019']
+  - ['Career Transition, Montreal, Canada, Dec 2017 - Jan 2019']
+  - ['Assistant Professor, Gediz University, Izmir, Turkey, Jun 2013 - Nov 2017']
+  - ['Research & Teaching Assistant, Georgia State Uni., Atlanta, GA, Aug 2006 - Dec 2012']
+  - ['Computer Lab Assistant, METU, Ankara, Turkey, Jan 2001 - May 2003']
+fields_of_interests: ['Cloud, DevOps']
+will_learn: ['Microsoft Power Platform']
+education:
+  - ['Doctor of Philosophy (Ph.D.), Physics, GSU, Atlanta, GA']
+  - ['Master of Science (M.Sc.), Physics, GSU Atlanta, GA']
+  - ['Bachelor of Science (B.Sc.), Physics, METU, Ankara, Turkey']
+hobbies: ['Movies, Wood Working']
 ```
 
 <p>I'm currently working as a Cloud Solution Architect at <strong><a href="https://www.deop.ca">DEOP </a></strong> and formerly at <strong><a href="https://www.tbconsulting.ca">Transatlantic Business Consulting </a></strong> in Toronto. </p>
@@ -73,17 +73,16 @@ hobbies: ["Movies, Wood Working, Outdoor Sports, Gaming"]
 
 Here are some repositories that initiated a spark during my Cloud and DevOps journey, as I explored a variety of different tools and services, including `Kubernetes`, `Docker`, `Terraform`, `Jenkins`, `Azure DevOps`, `Java-Maven`, `Nexus`, `Prometheus`, `Grafana`, `Linux`, `Python`, and `Bash Scripting`.
 
-
-  | Repository Name | Description  |
-  | ------ | ------ |
-   | [DevOps](https://github.com/RamazanAtalay/devops-exercises) | Comprehensive guide to DevOps for students and enthusiasts who are interested in learning about this approach and implementing it in their work |
-  | [Azure Projects](https://github.com/RamazanAtalay/TerraformAzure) | Azure IaC projects using Terrform |
-  | [AWS Projects](https://github.com/RamazanAtalay/TerraformAzure) | AWS IaC projects using Terrform |
-  | [Docker swarm projects](https://github.com/RamazanAtalay/docker-swarm-visualizer) | This is Docker swarm project and works only with Docker swarm mode which was introduced in Docker 1.12 |
-  | [Terraform](https://github.com/RamazanAtalay/TerraformAzure) | Terraform projects deploys Azure IaC|
-  | [Azure DevOps]() | Simple application of Azure DevOps |
-  | [Jenkins](https://github.com/RamazanAtalay/java-maven-app) | Jenkins |
-  | [Java-Maven app](https://github.com/RamazanAtalay/java-maven-app) | Java Maven with Jenkins |
+| Repository Name                                                                   | Description                                                                                                                                     |
+| --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| [DevOps](https://github.com/RamazanAtalay/devops-exercises)                       | Comprehensive guide to DevOps for students and enthusiasts who are interested in learning about this approach and implementing it in their work |
+| [Azure Projects](https://github.com/RamazanAtalay/TerraformAzure)                 | Azure IaC projects using Terrform                                                                                                               |
+| [AWS Projects](https://github.com/RamazanAtalay/TerraformAzure)                   | AWS IaC projects using Terrform                                                                                                                 |
+| [Docker swarm projects](https://github.com/RamazanAtalay/docker-swarm-visualizer) | This is Docker swarm project and works only with Docker swarm mode which was introduced in Docker 1.12                                          |
+| [Terraform](https://github.com/RamazanAtalay/TerraformAzure)                      | Terraform projects deploys Azure IaC                                                                                                            |
+| [Azure DevOps]()                                                                  | Simple application of Azure DevOps                                                                                                              |
+| [Jenkins](https://github.com/RamazanAtalay/java-maven-app)                        | Jenkins                                                                                                                                         |
+| [Java-Maven app](https://github.com/RamazanAtalay/java-maven-app)                 | Java Maven with Jenkins                                                                                                                         |
 
 <h2>✒️ Recent Posts</h2>
 <details>
@@ -188,7 +187,6 @@ src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.s
 src="https://github.com/devicons/devicon/blob/master/icons/groovy/groovy-original.svg" alt="groovy" width="40" height="40" />
 </p>
 
-
 <li> IDE/Terminal</li>
 <p align="left">
 <img 
@@ -199,7 +197,6 @@ src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-ori
 src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" alt="atom" width="40" height="40" />
 </p>
 
-
 <li> OS Platforms</li>
 <p align="left">
 <img 
@@ -207,7 +204,6 @@ src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.
 <img 
 src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40" />
 </p>
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RamazanAtalay&show_icons=true&locale=en&layout=compact"
