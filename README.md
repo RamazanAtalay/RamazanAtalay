@@ -49,8 +49,13 @@ education:
 hobbies: ['Movies, Wood Working']
 ```
 
-<p>I'm currently working as a Cloud Solution Architect at <strong><a href="https://www.deop.ca">DEOP </a></strong> and formerly at <strong><a href="https://www.tbconsulting.ca">Transatlantic Business Consulting </a></strong> in Toronto. </p>
-<p>I am working on some side projects, learning a coding in Python</p>
+<p>I'm currently employed as a Cloud and DevOps Engineer at <strong><a href="https://www.deop.ca">DEOP </a></strong>, a prominent technology company based in Toronto. In this role, I actively contribute to designing and implementing cloud-based solutions for our clients, leveraging my expertise in cloud architecture, DevOps practices, infrastructure management, and cloud security. I collaborate closely with cross-functional teams, including developers, engineers, and project managers, to deliver scalable and resilient cloud solutions that align with our clients' business objectives </p>
+
+<p>
+Prior to joining DEOP, I gained valuable experience as a Cloud and DevOps Engineer at <strong><a href="https://www.tbconsulting.ca">Transatlantic Business Consulting </a></strong>, a renowned consulting firm also located in Toronto. During my tenure there, I was responsible for eveloping reusable Terraform modules to enhance consistency and efficiency in infrastructure provisioning across teams and managing AWS services, including IAM, EC2, VPC, ELB, ALB, and Autoscaling, ensuring adherence to best practices and security standards using Terraform </p>
+
+<p>
+By combining my technical expertise, problem-solving abilities, and effective communication skills, I strive to provide innovative and reliable cloud solutions that drive business growth and efficiency. I am passionate about staying up to date with the latest advancements in cloud technologies and continuously expanding my knowledge to deliver the best outcomes for my clients.</p>
 
 </p>
 
