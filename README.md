@@ -106,8 +106,7 @@ src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40" />
 <img
 src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="googlecloud" width="40" height="40" />
-<img 
-src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40" />
+
 </p>
 
 <li> CI/CD</li>
@@ -125,13 +124,7 @@ src="/images/Data-Factory.svg" alt="datafactory" width="40" height="40" />
 src="/images/Container-Instances.svg" alt="acs" width="40" height="40" />
 <img 
 src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="40" height="40" />
-<img 
-src="https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original.svg" alt="argocd" width="40" height="40" />
-<img 
-src="https://github.com/devicons/devicon/blob/master/icons/bamboo/bamboo-original.svg" alt="bamboo" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/travis/travis-plain.svg" alt="travis" width="40" height="40" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/circleci/circleci-plain.svg" alt="circleci" width="40" height="40" />
+
 </p>
 
 <li> IaC </li>
@@ -168,10 +161,6 @@ src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40" />
 <img 
 src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" />
-<img 
-src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="mysql" width="40" height="40" />
-<img 
-src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40" />
 </p>
 
 <li> Programming</li>
@@ -182,15 +171,6 @@ src="https://github.com/devicons/devicon/blob/master/icons/python/python-origina
 src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
 <img 
 src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" alt="dotnet" width="40" height="40" />
-<img 
-src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" />
-<img
-src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
-<img 
-src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" alt="gradle" width="40" height="40" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="40" height="40" />
-<img
-src="https://github.com/devicons/devicon/blob/master/icons/groovy/groovy-original.svg" alt="groovy" width="40" height="40" />
 </p>
 
 <li> IDE/Terminal</li>
