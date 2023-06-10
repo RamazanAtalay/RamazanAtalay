@@ -66,7 +66,7 @@ By combining my technical expertise, problem-solving abilities, and effective co
 
 <h2>⚡️ Quick Facts</h2>
 <ul>
-<li>🔭 I'm currently engaged in a <a href="https://github.com/RamazanAtalay/RamazanAtalay"> </a> Microsoft 365 Migration Project, where I am actively involved in the seamless transition of organizations to the Microsoft 365 ecosystem. My responsibilities include assessing existing infrastructures, designing migration strategies, and implementing secure and efficient migrations that optimize productivity and collaboration </li>
+🔭 I'm currently engaged in a <a href="https://github.com/RamazanAtalay/RamazanAtalay"> </a> Microsoft 365 Migration Project, where I am actively involved in the seamless transition of organizations to the Microsoft 365 ecosystem. My responsibilities include assessing existing infrastructures, designing migration strategies, and implementing secure and efficient migrations that optimize productivity and collaboration
 
 <li>🧐 My learning journey delves deeply into the realm of <strong>cloud security</strong>. By focusing on fortifying the security of cloud systems, my goal is to design and implement robust and resilient cloud solutions that harness the power of cutting-edge technologies </li>
 
