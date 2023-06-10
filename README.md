@@ -68,16 +68,16 @@ By combining my technical expertise, problem-solving abilities, and effective co
 <ul>
 🔭 I'm currently engaged in a <a href="https://github.com/RamazanAtalay/RamazanAtalay"> </a> Microsoft 365 Migration Project, where I am actively involved in the seamless transition of organizations to the Microsoft 365 ecosystem. My responsibilities include assessing existing infrastructures, designing migration strategies, and implementing secure and efficient migrations that optimize productivity and collaboration
 
-<li>🧐 My learning journey delves deeply into the realm of <strong>cloud security</strong>. By focusing on fortifying the security of cloud systems, my goal is to design and implement robust and resilient cloud solutions that harness the power of cutting-edge technologies </li>
+🧐 My learning journey delves deeply into the realm of <strong>cloud security</strong>. By focusing on fortifying the security of cloud systems, my goal is to design and implement robust and resilient cloud solutions that harness the power of cutting-edge technologies
 
-<li>👨‍💻 You can find a majority of my projects on <a href="https://github.com/RamazanAtalay">GitHub</a>, where I actively contribute to open-source projects and showcase my personal coding endeavors. Feel free to explore my repositories to gain insights into my coding practices and the range of projects I have worked on </li>
+👨‍💻 You can find a majority of my projects on <a href="https://github.com/RamazanAtalay">GitHub</a>, where I actively contribute to open-source projects and showcase my personal coding endeavors. Feel free to explore my repositories to gain insights into my coding practices and the range of projects
 
-<li>📝 I have recently begun my writing journey in the realm of <strong>Cloud & DevOps</strong> on <a href="https://ramazanatalay.medium.com">my blog</a>.</li>
+📝 I have recently begun my writing journey in the realm of <strong>Cloud & DevOps</strong> on <a href="https://ramazanatalay.medium.com">my blog</a>
 
 
-<li>💬 If you have any questions or need assistance regarding Azure, AWS, Terraform, or any other cloud-related topics, don't hesitate to reach out to me. I'm always eager to engage in discussions and provide guidance based on my expertise and experiences in the field.
+💬 If you have any questions or need assistance regarding Azure, AWS, Terraform, or any other cloud-related topics, don't hesitate to reach out to me. I'm always eager to engage in discussions and provide guidance based on my expertise and experiences in the field.
 
-<li>📙 Don't forget to check out my <a href="https://www.linkedin.com/in/ratalay/">resume</a>, where you can find a comprehensive overview of my skills, experience, and qualifications. It provides a detailed account of my professional journey and showcases the value I can bring to organizations seeking cloud and DevOps expertise</li>
+📙 Don't forget to check out my <a href="https://www.linkedin.com/in/ratalay/">resume</a>, where you can find a comprehensive overview of my skills, experience, and qualifications. It provides a detailed account of my professional journey and showcases the value I can bring to organizations seeking cloud and DevOps expertise
 </ul>
 
 <h2>💾 Notable Repositories</h2>
