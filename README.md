@@ -44,7 +44,7 @@ fields_of_interests: ['Cloud, DevOps']
 will_learn: ['Microsoft Power Platform']
 education:
   - ['Doctor of Philosophy (Ph.D.), Physics, GSU, Atlanta, GA']
-  - ['Master of Science (M.Sc.), Physics, GSU Atlanta, GA']
+  - ['Master of Science (M.Sc.), Physics, GSU, Atlanta, GA']
   - ['Bachelor of Science (B.Sc.), Physics, METU, Ankara, Turkey']
 hobbies: ['Movies, Wood Working']
 ```
@@ -103,7 +103,7 @@ Here are some repositories that initiated a spark during my Cloud and DevOps jou
 <p align="left">
 <img
 src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40" />
+<img src="/images/aws.svg" alt="aws" width="40" height="40" />
 <img
 src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="googlecloud" width="40" height="40" />
 
