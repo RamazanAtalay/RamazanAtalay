@@ -24,8 +24,8 @@
 ```yaml
 name: Ramazan Atalay
 located_in: Toronto, Canada
-job: Cloud & DevOps Engineer
-company: Deop Inc
+job: Site Reliability Engineer
+company: Loblaw Inc
 technical_skills:
   - ['Azure, AWS, GCP - Solution Architect']
   - ['Terraform, Terraspace, ARM Template, CloudFormation, Ansible']
@@ -40,7 +40,7 @@ past experiences:
   - ['Assistant Professor, Gediz University, Izmir, Turkey, Jun 2013 - Nov 2017']
   - ['Research & Teaching Assistant, Georgia State Uni., Atlanta, GA, Aug 2006 - Dec 2012']
   - ['Computer Lab Assistant, METU, Ankara, Turkey, Jan 2001 - May 2003']
-fields_of_interests: ['Cloud, DevOps']
+fields_of_interests: ['Cloud, DevOps, SRE']
 will_learn: ['Microsoft Power Platform']
 education:
   - ['Doctor of Philosophy (Ph.D.), Physics, GSU, Atlanta, GA']
