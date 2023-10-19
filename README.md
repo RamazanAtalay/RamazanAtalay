@@ -27,7 +27,7 @@ located_in: Toronto, Canada
 job: Site Reliability Engineer
 company: Loblaw Inc
 technical_skills:
-  - ['Cybersecurity, Site Reliability']
+  - ['Cybersecurity, Site Reliability, FinOps']
   - ['Azure, AWS, GCP - Solution Architect']
   - ['Terraform, Terraspace, ARM Template, CloudFormation, Ansible']
   - ['Docker, Azure Container Services, Nexus, Kubernetes']
