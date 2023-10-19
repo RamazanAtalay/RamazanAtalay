@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/ratalay/"> Ramazan</h1>
-<h3 align="center">A passionate Site Reliability Engineer at Loblaw</h3>
+<h3 align="center">Site Reliability Engineer at Loblaw</h3>
 
 <p align="center">
 <br/>
