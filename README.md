@@ -49,7 +49,7 @@ education:
 hobbies: ['Movies, Wood Working']
 ```
 
-<p>I'm currently employed as a Cloud and DevOps Engineer at <strong><a href="https://www.deop.ca">DEOP </a></strong>, a prominent technology company based in Toronto. In this
+<p>I'm currently employed as a Cloud and DevOps Engineer at <strong><a href="https://www.deop.ca">DEOP </a></strong>, a prominent technology company based in Toronto. In this role there are mant stufff...
   
 <p>I'm currently employed as a Cloud and DevOps Engineer at <strong><a href="https://www.deop.ca">DEOP </a></strong>, a prominent technology company based in Toronto. In this role, I actively contribute to designing and implementing cloud-based solutions for our clients, leveraging my expertise in cloud architecture, DevOps practices, infrastructure management, and cloud security. I collaborate closely with cross-functional teams, including developers, engineers, and project managers, to deliver scalable and resilient cloud solutions that align with our clients' business objectives </p>
 
