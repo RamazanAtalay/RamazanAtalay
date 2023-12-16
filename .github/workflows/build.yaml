@@ -4,8 +4,8 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    # Runs at 12:33am and 12:33pm every day
-    - cron: '33 */12 * * *'
+    # Runs at 5:35 AM on Mondays.
+    - cron: '35 5 * * 1'
   
 jobs:
   build:
